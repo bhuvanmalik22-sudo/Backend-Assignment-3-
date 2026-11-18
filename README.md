@@ -161,3 +161,27 @@ app.use("/students", studentRoutes);
 ### 5. `package.json`
 
 The `pack
+
+# postman-get
+<img width="1600" height="898" alt="48deb01b-2ff6-4a0f-a591-8590ad4674d2" src="https://github.com/user-attachments/assets/a8599d0e-c196-42cc-879d-b96ba172a8b1" />
+
+# postman-get/by-id
+<img width="1600" height="898" alt="0f147ae0-73a6-40ab-8a25-c5d763bda4ec" src="https://github.com/user-attachments/assets/3c992d5d-a29b-4ca1-b8c5-ceedb44488bd" />
+
+# postman-post
+<img width="1600" height="876" alt="bf477c0d-7bdc-4258-b308-d4417a28e3f0" src="https://github.com/user-attachments/assets/59229588-73ea-42d9-80c2-ec14b47387f3" />
+
+# postman-put
+<img width="1600" height="1200" alt="65673f2c-f499-4959-b857-02a3c62228b2" src="https://github.com/user-attachments/assets/d2146f96-eb1f-490f-8bca-22d2a7c6c1d7" />
+
+# postman-delete
+<img width="1600" height="721" alt="c4bde998-b70d-4a68-b996-69f5ff1f89b6" src="https://github.com/user-attachments/assets/04453397-6dc4-4cd6-9499-bd588b27f340" />
+
+# postman-get/low-stock
+<img width="1024" height="521" alt="e92ee4ab-0423-46e9-8cb8-319e8c625848" src="https://github.com/user-attachments/assets/d5e3664f-0ae8-4dce-8dda-6b11bab9b7aa" />
+
+# postman-get/category-summary
+![Uploading 9f961921-fb92-4562-a2a8-0aacf9aea962.jpg…]()
+
+
+
